@@ -1,0 +1,70 @@
+{
+  "images": [
+    {
+      "filename": "2026-05-20-api-architecture.png",
+      "path": "assets/images/work/",
+      "uploadDate": "2026-05-20",
+      "category": "work",
+      "source": "screenshot",
+      "license": "proprietary",
+      "description": "REST API architecture diagram showing microservices",
+      "documentReferences": [
+        "docs/02-work/api-design.md",
+        "docs/04-reference/architecture-standards.md"
+      ],
+      "tags": ["work", "important", "architecture"]
+    },
+    {
+      "filename": "2026-05-19-python-decorators-diagram.png",
+      "path": "assets/images/learning/",
+      "uploadDate": "2026-05-19",
+      "category": "learning",
+      "source": "hand-drawn",
+      "license": "personal",
+      "description": "Visual explanation of Python decorator patterns",
+      "documentReferences": [
+        "docs/03-learning/python-advanced.md"
+      ],
+      "tags": ["learning", "python"]
+    },
+    {
+      "filename": "2026-05-18-database-schema-v3.png",
+      "path": "assets/diagrams/",
+      "uploadDate": "2026-05-18",
+      "category": "reference",
+      "source": "tool-generated",
+      "license": "proprietary",
+      "description": "Database schema v3 with user and order tables",
+      "documentReferences": [
+        "docs/04-reference/database-design.md",
+        "docs/02-work/migration-plan.md"
+      ],
+      "tags": ["reference", "database", "important"],
+      "version": "3.0",
+      "previous": "database-schema-v2.png"
+    },
+    {
+      "filename": "2026-05-15-project-kickoff-notes.pdf",
+      "path": "assets/attachments/",
+      "uploadDate": "2026-05-15",
+      "category": "work",
+      "source": "document",
+      "license": "proprietary",
+      "description": "Initial project kickoff meeting notes and requirements",
+      "documentReferences": [
+        "docs/02-work/project-alpha.md"
+      ],
+      "tags": ["work", "todo"],
+      "archived": false
+    }
+  ],
+  "statistics": {
+    "totalImages": 4,
+    "byCategory": {
+      "work": 2,
+      "learning": 1,
+      "reference": 1
+    },
+    "lastUpdated": "2026-05-20"
+  }
+}

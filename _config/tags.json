@@ -1,0 +1,107 @@
+{
+  "tags": {
+    "work": {
+      "description": "Work-related projects and tasks",
+      "color": "#0078D4",
+      "documents": [
+        {
+          "path": "docs/02-work/api-design.md",
+          "addedDate": "2026-05-20"
+        },
+        {
+          "path": "docs/02-work/project-alpha.md",
+          "addedDate": "2026-05-15"
+        }
+      ]
+    },
+    "learning": {
+      "description": "Educational content and skill development",
+      "color": "#107C10",
+      "documents": [
+        {
+          "path": "docs/03-learning/python-advanced.md",
+          "addedDate": "2026-05-19"
+        },
+        {
+          "path": "docs/03-learning/react-hooks.md",
+          "addedDate": "2026-05-18"
+        }
+      ]
+    },
+    "reference": {
+      "description": "Best practices and standards",
+      "color": "#FFB900",
+      "documents": [
+        {
+          "path": "docs/04-reference/architecture-standards.md",
+          "addedDate": "2026-05-20"
+        },
+        {
+          "path": "docs/04-reference/database-design.md",
+          "addedDate": "2026-05-18"
+        }
+      ]
+    },
+    "archive": {
+      "description": "Completed and historical content",
+      "color": "#737373",
+      "documents": [
+        {
+          "path": "docs/05-archive/old-project-notes.md",
+          "addedDate": "2026-04-01"
+        }
+      ]
+    },
+    "important": {
+      "description": "High-priority content - requires immediate attention",
+      "color": "#E81123",
+      "documents": [
+        {
+          "path": "docs/02-work/api-design.md",
+          "addedDate": "2026-05-20",
+          "reason": "Blocking other work"
+        },
+        {
+          "path": "docs/04-reference/database-design.md",
+          "addedDate": "2026-05-18",
+          "reason": "New standard to follow"
+        }
+      ]
+    },
+    "todo": {
+      "description": "Action items and pending work",
+      "color": "#FF8C00",
+      "documents": [
+        {
+          "path": "docs/02-work/project-alpha.md",
+          "addedDate": "2026-05-15",
+          "status": "in-progress"
+        }
+      ]
+    },
+    "python": {
+      "description": "Python-related learning and projects",
+      "color": "#3776AB",
+      "documents": [
+        {
+          "path": "docs/03-learning/python-advanced.md",
+          "addedDate": "2026-05-19"
+        }
+      ]
+    },
+    "database": {
+      "description": "Database design and optimization",
+      "color": "#336791",
+      "documents": [
+        {
+          "path": "docs/04-reference/database-design.md",
+          "addedDate": "2026-05-18"
+        },
+        {
+          "path": "docs/02-work/migration-plan.md",
+          "addedDate": "2026-05-15"
+        }
+      ]
+    }
+  }
+}
