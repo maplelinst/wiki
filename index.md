@@ -4,7 +4,7 @@ Welcome to your professional knowledge base. This is your central hub for organi
 
 ## Quick Navigation
 
-- **[Getting Started](./docs/01-getting-started/)** — Setup, onboarding, and initial guides
+- **[AI](./docs/01-ai/)** — AI tools, prompts, and instructions
 - **[Work](./docs/02-work/)** — Projects, tasks, and professional notes
 - **[Learning](./docs/03-learning/)** — Courses, tutorials, and skill development
 - **[Reference](./docs/04-reference/)** — Standards, best practices, and resources

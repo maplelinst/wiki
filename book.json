@@ -1,0 +1,11 @@
+{
+  "title": "Personal Knowledge Base",
+  "author": "Knowledge Base Owner",
+  "description": "Personal knowledge base with GitBook support and image assets",
+  "language": "zh-hans",
+  "gitbook": "3.2.x",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
